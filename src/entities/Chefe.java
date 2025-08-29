@@ -31,5 +31,6 @@ public class Chefe extends Usuario {
 			System.out.println("Usuario ou senha incorretos.");
 			return false;
 		}
+		//new status
 	}
 }
